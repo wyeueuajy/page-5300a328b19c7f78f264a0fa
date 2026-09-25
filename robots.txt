@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.yblzriq.cn/sitemap.xml
